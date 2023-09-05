@@ -8,7 +8,7 @@ coverY: 0
 
 # 🚀 About Trace
 
-## **For these reasons, we want Trace to be:**
+## **Trace aims to help SMEs by providing the following benefits:**
 
 <figure><img src="../../.gitbook/assets/TRACE_producerBenefits_V3_20220520 (1).png" alt=""><figcaption></figcaption></figure>
 
